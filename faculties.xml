@@ -1,0 +1,117 @@
+<?xml version = "1.0"?>
+<university>
+    <faculty name = "Architecture, Building and Planning">
+        <area name = "Architecture" code = "ARCH"></area>
+        <area name = "Architecture, Building and Planning" code = "ABPL"></area>
+        <area name = "Construction" code = "CONS"></area>
+        <area name = "Landscape Architecture" code = "LARC"></area>
+        <area name = "Planning" code = "PLAN"></area>
+        <area name = "Property" code = "PROP"></area>
+    </faculty>
+    <faculty name = "Arts">
+        <area name = "Ancient World Studies" code = "ANCW"></area>
+        <area name = "English" code = "ENGL"></area>
+        <area name = "Gender Studies" code = "GEND"></area>
+        <area name = "German" code = "GERM"></area>
+        <area name = "History" code = "HIST"></area>
+        <area name = "Indigineous Studies" code = "INDG"></area>
+        <area name = "Indonesian" code = "INDO"></area>
+        <area name = "Philosophy" code = "PHIL"></area>
+        <area name = "Spanish and Latin American Studies" code = "SPAN"></area>
+    </faculty>
+    <faculty name = "Business and Economics">
+        <area name = "Accounting" code = "ACCT"></area>
+        <area name = "Actuarial Studies" code = "ACTL"></area>
+        <area name = "Business Administration" code = "BUSA"></area>
+        <area name = "Econometrics" code = "ECOM"></area>
+        <area name = "Economics" code = "ECON"></area>
+        <area name = "Finance" code = "FNCE"></area>
+        <area name = "International Business" code = "IBUS"></area>
+        <area name = "Management" code = "MGMT"></area>
+        <area name = "Marketing" code = "MKTG"></area>
+    </faculty>
+    <faculty name = "Education">
+        <area name = "Education" code = "EDUC"></area>
+        <area name = "Law" code = "LAWS"></area>
+        <area name = "Media and Communications" code = "MECM"></area>
+        <area name = "Public Management" code = "PADM"></area>
+    </faculty>
+    <faculty name = "Engineering and Information Technology">
+        <area name = "Biomedical Engineering" code = "BMEN"></area>
+        <area name = "Civil Engineering" code = "CVEN"></area>
+        <area name = "Chemical Engineering" code = "CHEN"></area>
+        <area name = "Computer Science" code = "COMP"></area>
+        <area name = "Electrical Engineering" code = "ELEN"></area>
+        <area name = "Engineering" code = "ENGR"></area>
+        <area name = "Enivornmental Engineering" code = "ENEN"></area>
+        <area name = "Informatics" code = "INFO"></area>
+        <area name = "Information Systems" code = "ISYS"></area>
+        <area name = "Mechanical Engineering" code = "MCEN"></area>
+        <area name = "Software Engineering" code = "SWEN"></area>
+    </faculty>
+    <faculty name = "Fine Arts and Music">
+        <area name = "Australian Indigeneous Studies" code = "AIND"></area>
+        <area name = "Community Cultural Development Practice" code = "CCDP"></area>
+        <area name = "Creative Arts" code = "CREA"></area>
+        <area name = "Dance" code = "DNCE"></area>
+        <area name = "Design and Production for Stage and Screen" code = "DPSS"></area>
+        <area name = "Drama" code = "DRAM"></area>
+        <area name = "Film and Television" code = "FLTV"></area>
+        <area name = "Fine Art" code = "FINA"></area>
+        <area name = "Graphic Design" code = "GDES"></area>
+        <area name = "Music" code = "MUSI"></area>
+        <area name = "Music Theatre" code = "MUST"></area>
+        <area name = "Theatre Studies" code = "THTR"></area>
+    </faculty>
+    <faculty name = "Law">
+        <area name = "Business Law" code = "BLAW"></area>
+        <area name = "Law" code = "LAWS"></area>
+        <area name = "Public Management" code = "PADM"></area>
+        <area name = "Public Policy and Management" code = "PPMN"></area>
+    </faculty>
+    <faculty name = "Medicine, Dentistry and Health Sciences">
+        <area name = "Anatomy" code = "ANAT"></area>
+        <area name = "Biochemistry and Molecular Biology" code = "BCMB"></area>
+        <area name = "Biomedicine" code = "BIOM"></area>
+        <area name = "Dentistry" code = "DENT"></area>
+        <area name = "General Practice" code = "GENP"></area>
+        <area name = "Medicine" code = "MEDI"></area>
+        <area name = "Microbiology and Immunology" code = "MIIM"></area>
+        <area name = "Optometry and Vision Sciences" code = "OPTO"></area>
+        <area name = "Oral Health" code = "ORAL"></area>
+        <area name = "Otolaryngology" code = "OTOL"></area>
+        <area name = "Paediatrics" code = "PAED"></area>
+        <area name = "Pharmacology" code = "PHRM"></area>
+        <area name = "Physiology" code = "PHYS"></area>
+        <area name = "Population Health" code = "POPH"></area>
+        <area name = "Surgery" code = "SURG"></area>
+    </faculty>
+    <faculty name = "Science">
+        <area name = "Atmosphere and Ocean Science" code = "ATOC"></area>
+        <area name = "Biology" code = "BIOL"></area>
+        <area name = "Biotechnology" code = "BTCH"></area>
+        <area name = "Botany" code = "BOTA"></area>
+        <area name = "Chemistry" code = "CHEM"></area>
+        <area name = "Earth Sciences" code = "ERTH"></area>
+        <area name = "Ecology" code = "ECOL"></area>
+        <area name = "Environmental Science" code = "EVSC"></area>
+        <area name = "Environmental Studies" code = "ENST"></area>
+        <area name = "Forest Science" code = "FRST"></area>
+        <area name = "Genetics" code = "GENE"></area>
+        <area name = "Geography" code = "GEOG"></area>
+        <area name = "Geology" code = "GEOL"></area>
+        <area name = "Horticulture" code = "HORT"></area>
+        <area name = "Mathematics and Statistics" code = "MAST"></area>
+        <area name = "Physics" code = "PHYC"></area>
+        <area name = "Science" code = "SCIE"></area>
+        <area name = "Zoology" code = "ZOOL"></area>
+    </faculty>
+    <faculty name = "Veterinary and Agricultural Sciences">
+        <area name = "Agriculture" code = "AGRI"></area>
+        <area name = "Animal Science" code = "ANCS"></area>
+        <area name = "Environments" code = "ENVS"></area>
+        <area name = "Food Science" code = "FOOD"></area>
+        <area name = "Human Nutrition" code = "NUTR"></area>
+        <area name = "Veterinary Science" code = "VETS"></area>
+    </faculty>
+</university>
