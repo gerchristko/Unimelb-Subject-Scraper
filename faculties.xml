@@ -13,6 +13,7 @@
         <area name = "Anthropology" code = "ANTH"></area>
         <area name = "Arabic" code = "ARBC"></area>
         <area name = "Art History" code = "AHIS"></area>
+        <area name = "Arts" code = "ARTS"></area>
         <area name = "Asian Studies" code = "ASIA"></area>
         <area name = "Chinese" code = "CHIN"></area>
         <area name = "Cinema and Cultural Studies" code = "CICU"></area>
@@ -106,6 +107,7 @@
     <faculty name = "Medicine, Dentistry and Health Sciences">
         <area name = "Anatomy" code = "ANAT"></area>
         <area name = "Biochemistry and Molecular Biology" code = "BCMB"></area>
+        <area name = "Biomedical Science" code = "BMSC"></area>
         <area name = "Biomedicine" code = "BIOM"></area>
         <area name = "Cell and Developmental Biology" code = "CEDB"></area>
         <area name = "Dentistry" code = "DENT"></area>
