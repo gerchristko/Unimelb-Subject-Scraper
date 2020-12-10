@@ -10,13 +10,36 @@
     </faculty>
     <faculty name = "Arts">
         <area name = "Ancient World Studies" code = "ANCW"></area>
+        <area name = "Anthropology" code = "ANTH"></area>
+        <area name = "Arabic" code = "ARBC"></area>
+        <area name = "Art History" code = "AHIS"></area>
+        <area name = "Asian Studies" code = "ASIA"></area>
+        <area name = "Chinese" code = "CHIN"></area>
+        <area name = "Cinema and Cultural Studies" code = "CICU"></area>
+        <area name = "Classics" code = "CLAS"></area>
+        <area name = "Creative Writing" code = "CWRI"></area>
+        <area name = "Criminology" code = "CRIM"></area>
+        <area name = "Cultural Studies" code = "CULS"></area>
+        <area name = "Developmental Studies" code = "DEVT"></area>
         <area name = "English" code = "ENGL"></area>
+        <area name = "English as a Second Language" code = "ESLA"></area>
+        <area name = "European Studies" code = "EURO"></area>
         <area name = "Gender Studies" code = "GEND"></area>
         <area name = "German" code = "GERM"></area>
         <area name = "History" code = "HIST"></area>
+        <area name = "History and Philosophy of Science" code = "HPSC"></area>
         <area name = "Indigineous Studies" code = "INDG"></area>
         <area name = "Indonesian" code = "INDO"></area>
+        <area name = "Islamic Studies" code = "ISLM"></area>
+        <area name = "Japanese" code = "JAPN"></area>
+        <area name = "Korean" code = "KORE"></area>
+        <area name = "Linguistics and Applied Linguistics" code = "LING"></area>
         <area name = "Philosophy" code = "PHIL"></area>
+        <area name = "Political Science" code = "POLS"></area>
+        <area name = "Screen Studies" code = "SCRN"></area>
+        <area name = "Social Theory" code = "SOTH"></area>
+        <area name = "Sociology" code = "SOCI"></area>
+        <area name = "Socio-Legal Studies" code = "SOLS"></area>
         <area name = "Spanish and Latin American Studies" code = "SPAN"></area>
     </faculty>
     <faculty name = "Business and Economics">
@@ -73,14 +96,17 @@
         <area name = "Anatomy" code = "ANAT"></area>
         <area name = "Biochemistry and Molecular Biology" code = "BCMB"></area>
         <area name = "Biomedicine" code = "BIOM"></area>
+        <area name = "Cell and Developmental Biology" code = "CEDB"></area>
         <area name = "Dentistry" code = "DENT"></area>
         <area name = "General Practice" code = "GENP"></area>
         <area name = "Medicine" code = "MEDI"></area>
+        <area name = "Medicine/Surgery" code = "MEDS"></area>
         <area name = "Microbiology and Immunology" code = "MIIM"></area>
         <area name = "Optometry and Vision Sciences" code = "OPTO"></area>
         <area name = "Oral Health" code = "ORAL"></area>
         <area name = "Otolaryngology" code = "OTOL"></area>
         <area name = "Paediatrics" code = "PAED"></area>
+        <area name = "Pathology" code = "PATH"></area>
         <area name = "Pharmacology" code = "PHRM"></area>
         <area name = "Physiology" code = "PHYS"></area>
         <area name = "Population Health" code = "POPH"></area>
@@ -102,16 +128,22 @@
         <area name = "Geology" code = "GEOL"></area>
         <area name = "Horticulture" code = "HORT"></area>
         <area name = "Mathematics and Statistics" code = "MAST"></area>
+        <area name = "Neuroscience" code = "NEUR"></area>
         <area name = "Physics" code = "PHYC"></area>
+        <area name = "Psychology" code = "PSYC"></area>
         <area name = "Science" code = "SCIE"></area>
         <area name = "Zoology" code = "ZOOL"></area>
     </faculty>
     <faculty name = "Veterinary and Agricultural Sciences">
         <area name = "Agriculture" code = "AGRI"></area>
-        <area name = "Animal Science" code = "ANCS"></area>
+        <area name = "Animal Science" code = "ANSC"></area>
         <area name = "Environments" code = "ENVS"></area>
         <area name = "Food Science" code = "FOOD"></area>
         <area name = "Human Nutrition" code = "NUTR"></area>
         <area name = "Veterinary Science" code = "VETS"></area>
+    </faculty>
+    <faculty name = "Others">
+        <area name = "Multidisciplinary Subject" code = "MULT"></area>
+        <area name = "University Breadth" code = "UNIB"></area>
     </faculty>
 </university>
