@@ -5,7 +5,7 @@
         <area name = "Architecture, Building and Planning" code = "ABPL"></area>
         <area name = "Construction" code = "CONS"></area>
         <area name = "Landscape Architecture" code = "LARC"></area>
-        <area name = "Planning" code = "PLAN"></area>
+        <area name = "Planning" code = "PLAN"></area> 
         <area name = "Property" code = "PROP"></area>
     </faculty>
     <faculty name = "Arts">
@@ -24,23 +24,33 @@
         <area name = "English" code = "ENGL"></area>
         <area name = "English as a Second Language" code = "ESLA"></area>
         <area name = "European Studies" code = "EURO"></area>
+        <area name = "French" code = "FREN"></area>
         <area name = "Gender Studies" code = "GEND"></area>
         <area name = "German" code = "GERM"></area>
+        <area name = "Hebrew" code = "HEBR"></area>
         <area name = "History" code = "HIST"></area>
         <area name = "History and Philosophy of Science" code = "HPSC"></area>
         <area name = "Indigineous Studies" code = "INDG"></area>
         <area name = "Indonesian" code = "INDO"></area>
+        <area name = "International Studies" code = "INTS"></area>
         <area name = "Islamic Studies" code = "ISLM"></area>
+        <area name = "Italian" code = "ITAL"></area>
         <area name = "Japanese" code = "JAPN"></area>
-        <area name = "Korean" code = "KORE"></area>
+        <area name = "Jewish Studies" code = "JEWI"></area>
+        <area name = "Korean Studies" code = "KORE"></area>
+        <area name = "Language" code = "LANG"></area>
+        <area name = "Latin American Studies" code = "LTAM"></area>
         <area name = "Linguistics and Applied Linguistics" code = "LING"></area>
         <area name = "Philosophy" code = "PHIL"></area>
         <area name = "Political Science" code = "POLS"></area>
+        <area name = "Russian" code = "RUSS"></area>
         <area name = "Screen Studies" code = "SCRN"></area>
         <area name = "Social Theory" code = "SOTH"></area>
         <area name = "Sociology" code = "SOCI"></area>
         <area name = "Socio-Legal Studies" code = "SOLS"></area>
         <area name = "Spanish and Latin American Studies" code = "SPAN"></area>
+        <area name = "Visual Media" code = "VISM"></area>
+        
     </faculty>
     <faculty name = "Business and Economics">
         <area name = "Accounting" code = "ACCT"></area>
@@ -67,6 +77,7 @@
         <area name = "Electrical Engineering" code = "ELEN"></area>
         <area name = "Engineering" code = "ENGR"></area>
         <area name = "Enivornmental Engineering" code = "ENEN"></area>
+        <area name = "Geomatics" code = "GEOM"></area>
         <area name = "Informatics" code = "INFO"></area>
         <area name = "Information Systems" code = "ISYS"></area>
         <area name = "Mechanical Engineering" code = "MCEN"></area>
