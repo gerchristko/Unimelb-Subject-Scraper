@@ -1,7 +1,7 @@
 # unimelb-subject-scraper
 Simple code to retrieve data containing University of Melbourne subjects, their faculties, and availability.
 
-To run this code, simply run script.py (make sure you installed all the necessary libraries.
+To run this code, simply run script.py. Make sure you installed all the necessary libraries.
 Make sure faculties.xml is also in the same directory.
 
 You can change the contents of the csv output by going to this link;
